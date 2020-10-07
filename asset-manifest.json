@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BestMovies/static/css/main.f5b815ac.chunk.css",
-    "main.js": "/BestMovies/static/js/main.cb90b694.chunk.js",
-    "main.js.map": "/BestMovies/static/js/main.cb90b694.chunk.js.map",
-    "runtime-main.js": "/BestMovies/static/js/runtime-main.643a53a4.js",
-    "runtime-main.js.map": "/BestMovies/static/js/runtime-main.643a53a4.js.map",
-    "static/js/2.e9bd84aa.chunk.js": "/BestMovies/static/js/2.e9bd84aa.chunk.js",
-    "static/js/2.e9bd84aa.chunk.js.map": "/BestMovies/static/js/2.e9bd84aa.chunk.js.map",
-    "index.html": "/BestMovies/index.html",
-    "precache-manifest.a569f4b27445879b176a8310da5a1372.js": "/BestMovies/precache-manifest.a569f4b27445879b176a8310da5a1372.js",
-    "service-worker.js": "/BestMovies/service-worker.js",
-    "static/css/main.f5b815ac.chunk.css.map": "/BestMovies/static/css/main.f5b815ac.chunk.css.map",
-    "static/js/2.e9bd84aa.chunk.js.LICENSE.txt": "/BestMovies/static/js/2.e9bd84aa.chunk.js.LICENSE.txt",
-    "static/media/logo.jpg": "/BestMovies/static/media/logo.5e0f5adf.jpg"
+    "main.css": "/gaskon/static/css/main.f5b815ac.chunk.css",
+    "main.js": "/gaskon/static/js/main.398c1964.chunk.js",
+    "main.js.map": "/gaskon/static/js/main.398c1964.chunk.js.map",
+    "runtime-main.js": "/gaskon/static/js/runtime-main.51a3149c.js",
+    "runtime-main.js.map": "/gaskon/static/js/runtime-main.51a3149c.js.map",
+    "static/js/2.e9bd84aa.chunk.js": "/gaskon/static/js/2.e9bd84aa.chunk.js",
+    "static/js/2.e9bd84aa.chunk.js.map": "/gaskon/static/js/2.e9bd84aa.chunk.js.map",
+    "index.html": "/gaskon/index.html",
+    "precache-manifest.33dea0c80f9e9bd9e87ba7bd914da41f.js": "/gaskon/precache-manifest.33dea0c80f9e9bd9e87ba7bd914da41f.js",
+    "service-worker.js": "/gaskon/service-worker.js",
+    "static/css/main.f5b815ac.chunk.css.map": "/gaskon/static/css/main.f5b815ac.chunk.css.map",
+    "static/js/2.e9bd84aa.chunk.js.LICENSE.txt": "/gaskon/static/js/2.e9bd84aa.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/gaskon/static/media/logo.5e0f5adf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.643a53a4.js",
+    "static/js/runtime-main.51a3149c.js",
     "static/js/2.e9bd84aa.chunk.js",
     "static/css/main.f5b815ac.chunk.css",
-    "static/js/main.cb90b694.chunk.js"
+    "static/js/main.398c1964.chunk.js"
   ]
 }
