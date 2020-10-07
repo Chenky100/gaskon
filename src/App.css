@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.logo{
+  width: 150px;
+
+}
+
+.header{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 20px;
+}
+.nav-item{
+  margin-left: 2vw;
+  margin-right: 2vw;
+
+
+}
+.nav-item:hover{
+  text-decoration-line: underline;
+}
